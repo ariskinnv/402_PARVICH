@@ -15,7 +15,7 @@ int main()
         c[i] = 0.0;
     }
 
-    printf("\Вывод значений матрицы A и вектора b на экран:\n");
+    printf("\VIVOD ZNACHENII MATRIX A I VEKTORA b NA EKRAN:\n");
 
     for (i = 0; i < M; i++)
     {
