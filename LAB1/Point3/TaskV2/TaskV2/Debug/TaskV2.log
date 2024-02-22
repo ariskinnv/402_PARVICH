@@ -1,0 +1,4 @@
+﻿  TaskV2.cpp
+D:\PARVICH\LAB1\Point3\TaskV2\TaskV2\TaskV2.cpp(17,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\PARVICH\LAB1\Point3\TaskV2\TaskV2\TaskV2.cpp(18,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  TaskV2.vcxproj -> D:\PARVICH\LAB1\Point3\TaskV2\Debug\TaskV2.exe

@@ -1,0 +1,3 @@
+﻿  Task2.cpp
+D:\PARVICH\LAB1\Point1\Task2\Task2\Task2.cpp(11,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Task2.vcxproj -> D:\PARVICH\LAB1\Point1\Task2\Debug\Task2.exe
